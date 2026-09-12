@@ -62,4 +62,4 @@ Repo may be updated spontaneously!
 
 ---
 
-*Part of an ongoing journey from an English Literature degree ➡️ Data Science & AI. Follow the build log on [LinkedIn].*
+*Part of an ongoing journey from an English Literature degree ➡️ Data Science & AI. Follow the build log on www.linkedin.com/c/rizwanasalad/.*
